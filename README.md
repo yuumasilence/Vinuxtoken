@@ -1,2 +1,0 @@
-# Vinuxtoken
-Database Token
